@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+    //i can edit :D
     cout << "Hello world!" << endl;
     into();
     menu();
