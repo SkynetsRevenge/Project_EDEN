@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1513110652 source:e:\skynet b062 - text adv main\main.cpp
+	<iostream>
+	"menu2.h"
+	"INTRO.H"
+
+1513110522 e:\skynet b062 - text adv main\menu2.h
+	<iostream>
+
+1513110914 e:\skynet b062 - text adv main\intro.h
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+
