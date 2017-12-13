@@ -1,0 +1,3 @@
+# Project_EDEN
+Text adventure in the wild wild post apocalypse west. 
+After 1 year of donald trump’s presidency everything has gone to shit. North Korea had finally fired a(few) nukes and destroyed all major american cities because of a rock paper scissors duel with Trump. Kim won, with a nuke. America fell apart and most people now live in small tribal societies scattered throughout America. Mutants now roam the wastes of north america killing many survivors of the nuggets. But all of this can be reversed with the E.D.E.N. A device made by the US government just incase Trump were to become president. Now the remnants of the oregon Government calls upon three daring teenagers to save the world(aka america) in this riveting text adventure: E.D.E.N, The Wastes of OOF  
