@@ -19,17 +19,17 @@ void playerloction()
     cordy = cordy + 1
   }
       
-  if(movement == 'south')
+  else if(movement == 'south')
   {
    	cordy = cordy - 1;
   }
   
-  if(movement == 'east')
+  else if(movement == 'east')
   {
    	cordx = cordx + 1; 
   }
   
-  if(movement == 'west')
+  else if(movement == 'west')
   {
    	cordx = cordx - 1; 
   }
