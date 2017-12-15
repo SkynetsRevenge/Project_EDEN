@@ -39,8 +39,19 @@ void playerloction()
 //normal ass tiles - items/normal boss encounters
 void tile1_4(int &cordx, &cordy)
 {
+	int player=0;
+	cordxx=4
+	cordyy=1
+	playerlocation(cordx,cordy);
+	if(cordx == cordxx && cordy == cordyy)
+	{
+		player = player+1;
+	}
+	else
+	{
+		player = 0;
+	}
 	
-  
 }
 void tile1_5(int &cordx, &cordy)
 {
