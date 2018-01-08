@@ -4,13 +4,14 @@
 #include <iostream>
 #include "commands.h"
 #include "Description.h"
+/*
 void tile0()
 {
     int player=0;
-    //tile0 is spawn. Its south of tile1, east of tile3, west of tile7, and north of tile5
 }
 void tile3_3()//spawn tile
 {
+
     int player=0;
     cout << "You're at spawn";
     if((cordyy != 3)&&(cordxx != 3))
@@ -49,5 +50,5 @@ void direction();
     }
 
 }
-
+*/
 #endif // TILESMAIN_H_INCLUDED

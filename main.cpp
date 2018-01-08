@@ -11,7 +11,5 @@ int main()
     cout << "Hello world!" << endl;
     into();
     menu();
-
-    commands();
     return 0;
 }

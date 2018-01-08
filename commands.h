@@ -8,6 +8,8 @@ using namespace std;
 void commands()
 {
     string command;
+    int cordx=3;
+    int cordy=3;
     do{
         //Commands are GRAB(Adds Item to inventory), LOOK(Gives a description of the area), ATTK(rolls dice for damage), MOVE(Moves to a tile
 
@@ -33,8 +35,7 @@ void commands()
         else if(command == "MOVE")
         {
             string movement;
-            int cordx=24;
-            int cordy=26;
+            cout << "In direction ";
             cin >> movement;
             if(movement == "NORTH")
             {
@@ -65,12 +66,52 @@ void commands()
         {
             cout << "\nInvalid command";
         }
-    }while(command =! "EXIT");
+    }while(command != "EXIT");
 
 
 
 
 }
+/*
+void direction()
+{
+    commands(&cordy,&cordx)
+    int cordyy;
+    int cordxx;
+    if ((cordyy == 3)&&(cordxx == 3))
+    {
+        tile3_3(player = 1);
+    }
+    else if((cordyy == 5)&&(cordxx == 4))
+    {
+        tile5_4(player = 1);
+    }
+    else
+    {
+        normaltile();
+    }
 
-
+}
+//I Put this here because commands.h doesn't want to talk with tilesMAIN.h
+void tile3_3()//spawn tile
+{
+    int player=0;
+    cout << "You're at spawn";
+    if((cordyy != 3)&&(cordxx != 3))
+    {
+        player = 0;
+    }
+}
+void tile5_4()//special tile
+{
+    int player=0
+    cout << "This tile is special!!!";
+    //These kinds of tiles we would use for things like bosses and cities
+    //In the future, lets change this file to a town so we can test shops and Inns
+    if((cordyy != 5)&&(cordxx != 4))
+    {
+        player = 0;
+    }
+}
+*/
 #endif // COMMANDS_H_INCLUDED
