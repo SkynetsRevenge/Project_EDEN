@@ -1,3 +1,4 @@
+//Triple Entente 201X || 2017-18
 #ifndef INTRO_H_INCLUDED
 #define INTRO_H_INCLUDED
 #include <stdlib.h>
