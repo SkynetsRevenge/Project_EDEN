@@ -18,6 +18,9 @@ void menu()
     if(what == 1)
     {
     cout << "After 1 year of donald trump’s presidency everything has gone to shit. North Korea had finally fired a(few) nukes and destroyed all major american cities because of a rock paper scissors duel with Trump. Kim won, with a nuke[explosion sound effect]. America fell apart and most people now live in small tribal societies scattered throughout America. Mutants now roam the wastes of north America, killing many survivors of the nuggets. But all of this can be reversed with the E.D.E.N. A device made by the US government just incase Trump were to become president. Now the remnants of the oregon Government calls upon three daring teenagers to save the world(aka america, because america is the world.) in this riveting text adventure: E.D.E.N, The Wastes of OOF\n";
+    cout << "REMBER: Type all commands in capital or you're a boob\n";
+    system("pause");
+    system("CLS");
     commands();
     }
     if(what == 2)
